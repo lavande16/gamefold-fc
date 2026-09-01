@@ -1,0 +1,23 @@
+{
+  "product": "GameFold FC",
+  "status": "formal_baseline",
+  "source_module": "gamefold-fc",
+  "application_id": "com.gamefold.gamefold",
+  "version_name": "1.1",
+  "version_code": 13,
+  "apk": "GameFold-FC-baseline-v1.1-release.apk",
+  "sha256": "cfc6132dad0845a100622a4182883bb3ef410ded3b65d0a8a1aae888bc5e903c",
+  "signature_scheme": "v2",
+  "certificate_sha256": "24a37be7ed0f0431fde44018312271152545d689bb3d1fbe9fbf92914bdf84b4",
+  "accepted_candidate_version": "1.0.12",
+  "accepted_candidate_sha256": "6867257f8735c53fbfc35530d449f73b87ef9c8ac0692b06891d64fa4f4790d5",
+  "device_model": "V2436A",
+  "device_serial": "10AF3P0SDY001M6",
+  "device_user_acceptance": true,
+  "formal_install_verified": true,
+  "formal_installed_version_name": "1.1",
+  "formal_installed_version_code": 13,
+  "formal_install_time": "2026-08-16 21:39:32",
+  "formal_installed_apk_sha256": "cfc6132dad0845a100622a4182883bb3ef410ded3b65d0a8a1aae888bc5e903c",
+  "rollback_baseline": "artifacts/gamefold-fc-baselines/v1.0.10-release"
+}

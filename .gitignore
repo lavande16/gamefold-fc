@@ -1,0 +1,13 @@
+.DS_Store
+.gradle/
+.kotlin/
+.idea/
+**/.github/
+.cxx/
+**/build/
+local.properties
+*.apk
+*.keystore
+*.jks
+*.p12
+*.pem

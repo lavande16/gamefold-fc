@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameFold FC</string>
+    <string name="unsupported_window_mode">GAME FOLD does not support split screen or floating windows.</string>
+</resources>
