@@ -6,7 +6,7 @@
 <p align="center"><img src="https://game-fold.pages.dev/assets/gamefold-fold-device.webp" alt="GameFold FC 折叠屏掌机产品场景" width="94%"></p>
 <p align="center"><sub>GameFold FC 官网产品图 · Product artwork from the GameFold FC website</sub></p>
 
-<p align="center"><a href="https://game-fold.pages.dev">GameFold FC 官网 / Official site</a> · <a href="https://github.com/lavande16/gamefold-fc-private/releases/tag/gamefold-fc-1.1-13">下载 V1.1 / Download</a></p>
+<p align="center"><a href="https://game-fold.pages.dev">GameFold FC 官网 / Official site</a> · <a href="https://github.com/lavande16/gamefold-fc/releases/tag/gamefold-fc-1.1-13">下载 V1.1 / Download</a></p>
 
 ## 当前基线 · Current baseline
 
@@ -14,7 +14,7 @@
 |---|---|
 | 版本 | **GameFold FC V1.1 · versionCode 13** |
 | Android 包名 | **com.gamefold.gamefold** |
-| APK | [GameFold-FC-baseline-v1.1-release.apk](https://github.com/lavande16/gamefold-fc-private/releases/tag/gamefold-fc-1.1-13) |
+| APK | [GameFold-FC-baseline-v1.1-release.apk](https://github.com/lavande16/gamefold-fc/releases/tag/gamefold-fc-1.1-13) |
 | SHA-256 | `cfc6132dad0845a100622a4182883bb3ef410ded3b65d0a8a1aae888bc5e903c` |
 | 核心内容 | FC 前端、GameFold FC 模块、libretro-fceumm 核心 |
 
@@ -31,8 +31,8 @@
 
 ## 继续开发 · Continue development
 
-本私有仓库保留 GameFold FC V1.1 源码基线、根目录 Gradle 配置以及 `third_party/libretro-fceumm` 核心，可作为后续修改的起点。APK 通过 [V1.1 GitHub Release](https://github.com/lavande16/gamefold-fc-private/releases/tag/gamefold-fc-1.1-13) 下载；基线说明见 [CURRENT_GAMEFOLD_FC_BASELINE.md](CURRENT_GAMEFOLD_FC_BASELINE.md) 和 [SOURCE_SNAPSHOT.md](SOURCE_SNAPSHOT.md)。  
-This private repository preserves the GameFold FC V1.1 source baseline, root Gradle configuration and the `third_party/libretro-fceumm` core for future changes. Download the APK from the [V1.1 GitHub Release](https://github.com/lavande16/gamefold-fc-private/releases/tag/gamefold-fc-1.1-13). See [CURRENT_GAMEFOLD_FC_BASELINE.md](CURRENT_GAMEFOLD_FC_BASELINE.md) and [SOURCE_SNAPSHOT.md](SOURCE_SNAPSHOT.md) for baseline details.
+本仓库保留 GameFold FC V1.1 源码基线、根目录 Gradle 配置以及 `third_party/libretro-fceumm` 核心，可作为后续修改的起点。APK 通过 [V1.1 GitHub Release](https://github.com/lavande16/gamefold-fc/releases/tag/gamefold-fc-1.1-13) 下载；基线说明见 [CURRENT_GAMEFOLD_FC_BASELINE.md](CURRENT_GAMEFOLD_FC_BASELINE.md) 和 [SOURCE_SNAPSHOT.md](SOURCE_SNAPSHOT.md)。  
+This repository preserves the GameFold FC V1.1 source baseline, root Gradle configuration and the `third_party/libretro-fceumm` core for future changes. Download the APK from the [V1.1 GitHub Release](https://github.com/lavande16/gamefold-fc/releases/tag/gamefold-fc-1.1-13). See [CURRENT_GAMEFOLD_FC_BASELINE.md](CURRENT_GAMEFOLD_FC_BASELINE.md) and [SOURCE_SNAPSHOT.md](SOURCE_SNAPSHOT.md) for baseline details.
 
 GameFold FC 是个人项目，与 Nintendo 或其他第三方品牌没有官方隶属关系。  
 GameFold FC is an independent personal project and is not affiliated with Nintendo or other third-party brands.
@@ -44,13 +44,13 @@ GameFold is for foldable phones; GamePad is for Android tablets.
 
 | 产品线 / Product | 仓库 / Repository | 官网 / Website | 描述 / Description |
 |---|---|---|---|
-| GameFold NS | [gamefold-ns-private](https://github.com/lavande16/gamefold-ns-private) | [GameFold](https://gamefold.pages.dev) | 在折叠屏手机上运行 Switch 游戏。<br>Run Switch games on a foldable phone. |
-| GameFold PC | [gamefold-pc-private](https://github.com/lavande16/gamefold-pc-private) | [GameFold](https://gamefold.pages.dev) | 在折叠屏手机上运行 PC 游戏。<br>Run PC games on a foldable phone. |
-| GameFold FC | [gamefold-fc-private](https://github.com/lavande16/gamefold-fc-private) | [GameFold FC](https://game-fold.pages.dev) | 在折叠屏手机上运行 FC 游戏。<br>Run FC games on a foldable phone. |
-| GamePad NS | [gamepad-ns-private](https://github.com/lavande16/gamepad-ns-private) | [GameFold](https://gamefold.pages.dev) | 在 Android 平板上运行 Switch 游戏。<br>Run Switch games on an Android tablet. |
-| GamePad PC | [gamepad-pc-private](https://github.com/lavande16/gamepad-pc-private) | [GameFold](https://gamefold.pages.dev) | 在 Android 平板上整理并启动本地 PC 游戏。<br>Organize and launch local PC games on an Android tablet. |
-| GamePad PS | [gamepad-ps-private](https://github.com/lavande16/gamepad-ps-private) | [GameFold](https://gamefold.pages.dev) | 在 Android 平板上畅玩自己的 PS2 游戏库。<br>Play your PS2 library on an Android tablet. |
+| GameFold NS | [gamefold-ns](https://github.com/lavande16/gamefold-ns) | [GameFold](https://gamefold.pages.dev) | 在折叠屏手机上运行 Switch 游戏。<br>Run Switch games on a foldable phone. |
+| GameFold PC | [gamefold-pc](https://github.com/lavande16/gamefold-pc) | [GameFold](https://gamefold.pages.dev) | 在折叠屏手机上运行 PC 游戏。<br>Run PC games on a foldable phone. |
+| GameFold FC | [gamefold-fc](https://github.com/lavande16/gamefold-fc) | [GameFold FC](https://game-fold.pages.dev) | 在折叠屏手机上运行 FC 游戏。<br>Run FC games on a foldable phone. |
+| GamePad NS | [gamepad-ns](https://github.com/lavande16/gamepad-ns) | [GameFold](https://gamefold.pages.dev) | 在 Android 平板上运行 Switch 游戏。<br>Run Switch games on an Android tablet. |
+| GamePad PC | [gamepad-pc](https://github.com/lavande16/gamepad-pc) | [GameFold](https://gamefold.pages.dev) | 在 Android 平板上整理并启动本地 PC 游戏。<br>Organize and launch local PC games on an Android tablet. |
+| GamePad PS | [gamepad-ps](https://github.com/lavande16/gamepad-ps) | [GameFold](https://gamefold.pages.dev) | 在 Android 平板上畅玩自己的 PS2 游戏库。<br>Play your PS2 library on an Android tablet. |
 
 ---
 
-<p align="center"><sub>私有源码与基线备份 · Private source and baseline backup · 请自行准备有权使用的游戏内容 · Use only game content you are entitled to use</sub></p>
+<p align="center"><sub>源码与基线备份 · Source and baseline backup · 请自行准备有权使用的游戏内容 · Use only game content you are entitled to use</sub></p>
